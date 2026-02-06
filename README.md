@@ -25,18 +25,6 @@ Currently focusing on **AWS basics, CI/CD, Linux, Docker, and system design thin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charithareddymule&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charithareddymule&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 - AWS (S3, EC2, IAM, CloudFront)
 - CI/CD with GitHub Actions
